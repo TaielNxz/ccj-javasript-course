@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Taiel Nunes",
+      "email": "correo@correo.com",
+      "telefono": "75097918",
+      "empresa": "Empresa1",
+      "id": 1
+    },
+    {
+      "nombre": "Daniel Nuñes",
+      "email": "correo2@correo2.com",
+      "telefono": "75097918",
+      "empresa": "Empresa2",
+      "id": 2
+    },
+    {
+      "nombre": "Migueles",
+      "email": "correo5@correo5.com",
+      "telefono": "75097918",
+      "empresa": "Empresa5",
+      "id": 3
+    }
+  ]
+}
